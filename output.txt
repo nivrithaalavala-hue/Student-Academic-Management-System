@@ -1,0 +1,33 @@
+
+===== College Details =====
+College Code: ANIL
+College Name: ANITS
+Location: VIZAG
+
+===== Student Academic Report =====
+
+Student ID: S001
+Name: Rahul
+Marks: [85, 78, 90]
+Average: 84.33
+CGPA: 8.43
+Age: 22
+Fee Balance: 30000
+
+Student ID: S002
+Name: Ananya
+Marks: [88, 92, 80]
+Average: 86.67
+CGPA: 8.67
+Age: 22
+Fee Balance: 15000
+
+Student ID: S003
+Name: Kiran
+Marks: [75, 70, 82]
+Average: 75.67
+CGPA: 7.57
+Age: 22
+Fee Balance: 40000
+
+=== Code Execution Successful ===
